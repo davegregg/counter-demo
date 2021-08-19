@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+.increment, .decrement {
+    font-family: 'Source Code Pro', 'Courier New', Courier, monospace;
+}
+
+.count {
+    font-weight: bold;
+}
